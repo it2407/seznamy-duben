@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.nadpis{
+    text-align: center;
+    font-size: 55px;
+}
+.nadpis2 {
+    color: white;
+    background-color: rgb(163, 35, 35);
+    height: 40px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-family: sans-serif;
+    display: block;
+    
+}
+
+.obory {
+    width: 200px;
+}
+
+.kod_oboru {
+    width: 350px;
+}
+
+.pocet_trid, .pocet_zaku {
+    text-align: right;
+}
+
+.pocet_zaku {
+    width: 70px;
+}
+
+.pocet_trid{
+    width: 90px;
+}
+tfoot {
+    background-color: lightgrey;
+}
+
+thead {
+    background-color: lightgrey;
+}
+
+.celkem_zaku, .celkem_trid {
+    text-align: right;
+    color: red;
+    font-weight: bold;
+}
+
+.celkove_udaje {
+    font-weight: bold;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    display: inline-block;
+    text-align: left;
+}
+caption {
+    font-style: italic;
+    color: white;
+    background-color: rgb(78, 74, 74);
+    margin-bottom: 10px;
+}
+.div {
+    margin: auto;
+    text-align: center;
+    width: 900px;
+    border-width: 2px;
+    border-style: solid;
+    border-bottom: none;
+    border-top: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: rgb(217, 214, 214);
+}
+
+h3 {
+    text-transform: uppercase;
+    text-align: left;
+    color: rgb(38, 95, 156);
+}
+ol{
+    text-align: left;
+}
